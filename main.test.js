@@ -1,9 +1,9 @@
 /******************
  * YOUR CODE HERE *
  ******************/
-greeting = 'Hello';
-sum = 0;
-prod = 0;
+let greeting = 'Hello';
+let sum = 0;
+let prod = 0;
 
 function greet(s) {
   greeting = 'Hello ' + s;
